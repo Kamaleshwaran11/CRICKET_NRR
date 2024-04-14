@@ -1,4 +1,4 @@
-# CRICKET_NRR
+# CRICKET_NET RUN RATE
 
 Net Run Rate (NRR) is a statistical method used in cricket to rank teams in a tournament based on their performance. It is calculated by finding the difference between the rate at which the team scores runs and the rate at which they concede runs per over, averaged over all matches played. A positive NRR indicates that a team scores runs at a faster rate than they concede them, while a negative NRR indicates the opposite.
 The formula to calculate net run rate is:
