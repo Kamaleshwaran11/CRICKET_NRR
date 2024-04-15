@@ -21,4 +21,4 @@ The formula to calculate net run rate is:
 ​
 ## License
 
-This project is licensed under the MIT License-see the [LICENSE]() file for details.
+This project is licensed under the APACHE License-see the [LICENSE](https://github.com/Kamaleshwaran11/CRICKET_NRR/blob/main/LICENSE) file for details.
